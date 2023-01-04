@@ -1,0 +1,246 @@
+/* Background image */
+body {
+  background-image: url(https://images4.alphacoders.com/987/987919.jpg);
+}
+
+/* Home icon image */
+.home-icon {
+  background-image: url(https://i.pinimg.com/564x/8d/2a/68/8d2a681c700d0094f033e861301c342c.jpg);
+  zoom: 100;
+  background-position: center;
+}
+
+/* Small user popout image */
+.small-user-popout {
+  background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  background-position: center;
+}
+
+/* Big user popout image */
+.big-user-popout {
+  background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+}
+
+/* Font size */
+* {
+  font-size: 100px;
+}
+
+/* Main color */
+* {
+  color: #43B581FF;
+}
+
+/* Theme transparency */
+* {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Mentions color */
+.mention {
+  color: #FAA61A0D;
+}
+
+/* Mentions slider */
+.mention-slider {
+  background-color: #FAA61AFF;
+}
+
+/* Mentions hover */
+.mention:hover {
+  color: #FAA61A14;
+}
+
+/* Category hover */
+.category:hover {
+  background-color: #3CCA8AFF;
+}
+
+/* Video screen button background */
+.video-screen-button {
+  background-color: #C8C8C833;
+  color: #FFFFFFFF;
+}
+
+/* Video screen button background hover */
+.video-screen-button:hover {
+  background-color: #C8C8C866;
+  color: #FFFFFFFF;
+}
+
+/* Member list role */
+.member-list-role {
+  color: #43B581FF;
+}
+
+/* Small user popout background transparency */
+.small-user-popout {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Code markup background */
+.code-markup {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Message box transparency */
+.message-box {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Embed background transparency */
+.embed {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Message hover buttons background */
+.message-hover-buttons {
+  background-color: #C8C8C81A;
+}
+
+/* Context menu transparency */
+.context-menu {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Add & discover icon transparency */
+.add-discover-icon {
+  background-color: rgba(200, 200, 200, 0.26);
+  color: #43B581FF;
+}
+
+/* Add & discover icon */
+.add-discover-icon {
+  color: #43B581FF;
+}
+
+/* Channel limit */
+.channel-limit {
+  color: #43B581FF;
+}
+
+/* Channel limit left */
+.channel-limit-left {
+  background-color: #C8C8C81A;
+}
+
+/* Channel limit right */
+.channel-limit-right {
+  background-color: #C8C8C833;
+}
+
+/* Scrollbar */
+.webkit-scrollbar {
+  background-color: #C8C8C833;
+}
+
+/* Unread */
+.unread {
+  color: #F04747FF;
+}
+
+/* Unread divider font */
+.unread-divider .unread-divider-text {
+  color: #FFFFFFFF;
+}
+
+/* New messages bar */
+.new-messages-bar {
+  background-color: #7289DAFF;
+}
+
+/* Messages bar font */
+.messages-bar .messages-bar-text {
+  color: #FFFFFFFF;
+}
+
+/* Emoji menu */
+.emoji-menu {
+  background-color: #FFFFFFFF;
+}
+
+/* Emoji menu side */
+.emoji-menu-side {
+  background-color: #FFFFFFFF;
+}
+
+/* Emoji menu header */
+.emoji-menu-header {
+  background-color: #FFFFFFFF;
+}
+
+/* Emoji menu bottom bar */
+.emoji-menu-bottom-bar {
+  background-color: #FFFFFFFF;
+}
+
+/* Emoji menu searchbar */
+.emoji-menu-searchbar {
+  background-color: #FFFFFFFF;
+}
+
+/* Message search menu */
+.message-search-menu {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Message search container */
+.message-search-container {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Message search result */
+.message-search-result {
+  background-color: #C8C8C80D;
+}
+
+/* Text & voice channel */
+.text-voice-channel {
+  color: #8E9297FF;
+}
+
+/* Text & voice channel hover */
+.text-voice-channel:hover {
+  color: #DCDDDEFF;
+}
+
+/* Text & voice channel selected */
+.text-voice-channel.selected {
+  color: #FFFFFFFF;
+}
+
+/* Unread channel */
+.unread-channel {
+  color: #FFFFFFFF;
+}
+
+/* Unread channel bubble */
+.unread-channel .unread-bubble {
+  background-color: #FFFFFFFF;
+}
+
+/* Folder background */
+.folder {
+  background-color: #2F3136FF;
+}
+
+/* Expanded folder background */
+.expanded-folder {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+/* Reaction emoji background */
+.reaction-emoji {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+/* Reaction emoji background hover */
+.reaction-emoji:hover {
+  background-color: #FFFFFF1A;
+}
+
+/* Reaction emoji background border */
+.reaction-emoji {
+  border-color: #FFFFFF33;
+}
+
